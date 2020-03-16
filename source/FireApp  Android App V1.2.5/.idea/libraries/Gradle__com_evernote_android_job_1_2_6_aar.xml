@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.evernote:android-job:1.2.6@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb3f5db408e97edd558035093f3e1b1a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/fb3f5db408e97edd558035093f3e1b1a/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.evernote/android-job/1.2.6/4c1e667008cd11b8cb264b72a3c4aaf38ea9d9ea/android-job-1.2.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
